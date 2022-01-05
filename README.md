@@ -24,8 +24,7 @@ Engenheiro e Cientista de dados at Grupo DASA
 
 ## Projetos:
 
-**P01: Do Python e SQL ao Power BI - WebScraping do IMDB** - https://bit.ly/3pTDrjC
-
+**P01: Do Python e SQL ao Power BI - WebScraping do IMDB** - https://bit.ly/3zywtUv
 
 ---
 
